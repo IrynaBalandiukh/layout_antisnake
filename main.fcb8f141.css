@@ -1,0 +1,2 @@
+body{margin:0}html{font-family:Arial,Helvetica,sans-serif;font-size:100px;color:#fff}.box{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}@media (min-width:1200px){.box{grid-template-columns:1fr 1fr 1fr}}.box__block{display:flex;justify-content:center;align-items:center;height:300px}.box__block--1{background-color:red}.box__block--2{background-color:#c00}.box__block--3{background-color:#900}.box__block--4{background-color:#600}.box__block--5{background-color:#300}.box__block--6{background-color:#000}
+/*# sourceMappingURL=main.fcb8f141.css.map */
